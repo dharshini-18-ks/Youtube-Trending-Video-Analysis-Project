@@ -1,2 +1,3 @@
 # Youtube-Trending-Video-Analysis-Project
+# Overview
 YouTube, the preeminent video-sharing platform, curates a daily list of trending videos, showcasing content that captures the zeitgeist of global and local cultures. The trending algorithm, as reported by Variety magazine, relies not just on views but also on user interactions, such as shares, comments, and likes. These metrics indicate the videos' virality rather than sheer viewership. This project conducts a comprehensive analysis of YouTube's trending videos data, aiming to unearth insights into what propels a video to trend, the characteristics of trending content, and the dynamics of user engagement.
